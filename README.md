@@ -10,4 +10,4 @@ BÀI THỰC HÀNH 01 – ỨNG DỤNG AI
 2. Công cụ AI sử dụng(Nguồn)
  - Google Bard / Gemini: hỗ trợ cấu hình và xử lý sự cố
  - Canva AI: tạo infographic
-
+ - Chat GPT: truy xuất thông tin

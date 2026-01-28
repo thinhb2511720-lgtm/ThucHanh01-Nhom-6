@@ -4,7 +4,7 @@
 Sử dụng công cụ trí tuệ nhân tạo (AI) để tạo infographic giới thiệu về ứng dụng AI trong lĩnh vực công nghệ thông tin.
 
 ## 2. Công cụ AI sử dụng
-- Canva AI (Magic Design / Magic Media)
+- Inforgaphic được tạo ra bằng công cụ Canva AI (Magic Design / Magic Media)
 
 ## 3. Nội dung infographic
 - Khái niệm AI
